@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RSQ025P03HZGTR
+D Pch -30V -2.5A Small Signal MOSFET
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rsq025p03hzgtr-e.pdf
+$ENDCMP
+#
+#End Doc Library

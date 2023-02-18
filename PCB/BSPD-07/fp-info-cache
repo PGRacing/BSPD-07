@@ -1,4 +1,4 @@
-20548841575037130
+20552195056139068
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -20,6 +20,20 @@ Connector
 0
 14
 14
+BSPD_07
+SON95P300X300X90-7N-D
+DFN6 (3x3) package outline-A
+Integrated Circuit
+0
+7
+7
+BSPD_07
+SOT95P280X100-6N
+TSMT6_2022
+MOSFET (P-Channel)
+0
+6
+6
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)

@@ -1,4 +1,4 @@
-20553871897216347
+20558902684868201
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -21,12 +21,33 @@ Connector
 14
 14
 BSPD_07
+POT-3296X1223LF
+3296X_FFW
+Variable Resistor
+0
+3
+3
+BSPD_07
+SOIC127P600X175-8N
+D
+Integrated Circuit
+0
+8
+8
+BSPD_07
 SON95P300X300X90-7N-D
 DFN6 (3x3) package outline-A
 Integrated Circuit
 0
 7
 7
+BSPD_07
+SOT65P210X100-3N
+RJU002N06FRAT106
+MOSFET (N-Channel)
+0
+3
+3
 BSPD_07
 SOT65P212X110-5N
 SOT353-1

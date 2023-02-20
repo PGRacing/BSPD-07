@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3296X-1-203LF
+D 3296X side adj cermet trimmer,20K 10mm Bourns 3296X Series 25-Turn Through Hole Cermet Trimmer Resistor with Pin Terminations, 20k +/-10% 1/2W +/-100ppm/C
+K
+F https://www.bourns.com/pdfs/3296.pdf
+$ENDCMP
+#
+#End Doc Library

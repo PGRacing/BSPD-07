@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJU002N06FRAT106
+D ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/185695.pdf
+$ENDCMP
+#
+#End Doc Library

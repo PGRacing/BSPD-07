@@ -2522,7 +2522,7 @@
     (effects (font (size 1.8 1.8) italic) (justify left bottom))
     (uuid ad96449e-3954-4415-9ff1-30dc2cab8cba)
   )
-  (text "ERR = HIGH" (at 80.01 161.29 0)
+  (text "ERR = HIGH" (at 79.375 161.29 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid ce1d59f6-1905-4fd3-b5ff-7ac595bdaf28)
   )

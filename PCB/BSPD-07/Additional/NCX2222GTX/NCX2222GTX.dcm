@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCX2222GTX
+D Comparator Dual R-R I/O 5.5V 8-Pin XSON T/R
+K
+F http://www.nxp.com/docs/en/data-sheet/NCX2222.pdf
+$ENDCMP
+#
+#End Doc Library

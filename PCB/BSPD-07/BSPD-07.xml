@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Karol\Documents\GitHub\BSPD-07\PCB\BSPD-07\BSPD-07.kicad_sch</source>
+    <date>27.02.2024 22:26:12</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BSPD-07.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>118f0778-e9d3-4271-8bcc-a274169adaa4</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50047048-7a84-402e-9b05-294cb0a5a46d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e56a8824-0902-4cf5-97ef-4ce87fb08266</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5859a978-2b82-499e-9e40-5e0dc86c1570</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c442c6bc-5eb7-4569-89e1-0a616758db0e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eaa0818-aa20-45c6-a05a-11640ea95213</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eb2a4f6-9c62-4b9e-b86f-764a8ac1003d</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cddd74bd-64d8-419f-ac2b-e4c32ea902bd</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>161bda09-f8e7-4211-8955-f495908d94d5</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>na</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5487cdec-177f-48bc-abb7-e98b660be4af</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>na</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d6d2b6d-48c6-450f-9e14-b7d675875b1b</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>7V</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d53bf91e-1a8c-4766-8564-0edbccc59e6b</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>7V</value>
+      <footprint>Diode_SMD:D_0402_1005Metric</footprint>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecd71454-9644-4a49-b4a4-82a872eb7f12</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceeae0f3-eeb4-4e60-9d26-30190a673d37</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f4dccc8-5830-44b2-a241-6731b10d74d3</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>LM393LVQDRQ1</value>
+      <footprint>BSPD_07:SOIC127P600X175-8N</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/lm393lv-q1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LM393LVQDRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac</field>
+        <field name="Description">Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393LVQDRQ1</field>
+        <field name="Mouser Part Number">595-LM393LVQDRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D</field>
+      </fields>
+      <libsource lib="BSPD-07" part="LM393LVQDRQ1" description="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Description" value="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="LM393LVQDRQ1"/>
+      <property name="Mouser Part Number" value="595-LM393LVQDRQ1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D"/>
+      <property name="Arrow Part Number" value="LM393LVQDRQ1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90a442e5-8955-4be7-a2a2-5ce96ee123ec</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>LM393LVQDRQ1</value>
+      <footprint>BSPD_07:SOIC127P600X175-8N</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/lm393lv-q1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LM393LVQDRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac</field>
+        <field name="Description">Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393LVQDRQ1</field>
+        <field name="Mouser Part Number">595-LM393LVQDRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D</field>
+      </fields>
+      <libsource lib="BSPD-07" part="LM393LVQDRQ1" description="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Description" value="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="LM393LVQDRQ1"/>
+      <property name="Mouser Part Number" value="595-LM393LVQDRQ1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D"/>
+      <property name="Arrow Part Number" value="LM393LVQDRQ1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d21dfe0-ccc8-4df2-92ac-5d134a21f54b</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>LM393LVQDRQ1</value>
+      <footprint>BSPD_07:SOIC127P600X175-8N</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/lm393lv-q1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LM393LVQDRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac</field>
+        <field name="Description">Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393LVQDRQ1</field>
+        <field name="Mouser Part Number">595-LM393LVQDRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D</field>
+      </fields>
+      <libsource lib="" part="LM393LVQDRQ1_1" description="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Description" value="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="LM393LVQDRQ1"/>
+      <property name="Mouser Part Number" value="595-LM393LVQDRQ1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D"/>
+      <property name="Arrow Part Number" value="LM393LVQDRQ1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e69f32b-69f6-4170-b762-13966913ea91</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>LDO40LPU50RY</value>
+      <footprint>BSPD_07:SON95P300X300X90-7N-D</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/LDO40LPU50RY.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LDO40LPU50RY</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ldo40lpu50ry/stmicroelectronics?region=nac</field>
+        <field name="Description">LDO Voltage Regulators 400 mA, 38 V low-dropout regulator</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">LDO40LPU50RY</field>
+        <field name="Mouser Part Number">511-LDO40LPU50RY</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDO40LPU50RY?qs=qSfuJ%252Bfl%2Fd76TFu8P3XttQ%3D%3D</field>
+      </fields>
+      <libsource lib="BSPD-07" part="LDO40LPU50RY" description="LDO Voltage Regulators 400 mA, 38 V low-dropout regulator"/>
+      <property name="Description" value="LDO Voltage Regulators 400 mA, 38 V low-dropout regulator"/>
+      <property name="Height" value="0.9"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="LDO40LPU50RY"/>
+      <property name="Mouser Part Number" value="511-LDO40LPU50RY"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDO40LPU50RY?qs=qSfuJ%252Bfl%2Fd76TFu8P3XttQ%3D%3D"/>
+      <property name="Arrow Part Number" value="LDO40LPU50RY"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ldo40lpu50ry/stmicroelectronics?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c832bbb6-b366-4f07-b2d3-427e406c8006</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>74LVC1G02GW-Q100H</value>
+      <footprint>BSPD_07:SOT65P212X110-5N</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74LVC1G02_Q100.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">74LVC1G02GW-Q100H</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/74lvc1g02gw-q100h/nexperia</field>
+        <field name="Description">Single 2-input NOR gate@en-us</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">74LVC1G02GW-Q100H</field>
+        <field name="Mouser Part Number">771-74LVC1G02GWQ100H</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G02GW-Q100H?qs=5XOdhvmYM0OXtjyYuTuWfw%3D%3D</field>
+      </fields>
+      <libsource lib="BSPD-07" part="74LVC1G02GW-Q100H" description="Single 2-input NOR gate@en-us"/>
+      <property name="Description" value="Single 2-input NOR gate@en-us"/>
+      <property name="Height" value="1.1"/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="74LVC1G02GW-Q100H"/>
+      <property name="Mouser Part Number" value="771-74LVC1G02GWQ100H"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G02GW-Q100H?qs=5XOdhvmYM0OXtjyYuTuWfw%3D%3D"/>
+      <property name="Arrow Part Number" value="74LVC1G02GW-Q100H"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/74lvc1g02gw-q100h/nexperia"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90864916-8fd2-4fdc-bfed-fa6129adb1d5</tstamps>
+    </comp>
+    <comp ref="IC6">
+      <value>LM393LVQDRQ1</value>
+      <footprint>BSPD_07:SOIC127P600X175-8N</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/lm393lv-q1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LM393LVQDRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac</field>
+        <field name="Description">Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393LVQDRQ1</field>
+        <field name="Mouser Part Number">595-LM393LVQDRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D</field>
+      </fields>
+      <libsource lib="BSPD-07" part="LM393LVQDRQ1" description="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Description" value="Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="LM393LVQDRQ1"/>
+      <property name="Mouser Part Number" value="595-LM393LVQDRQ1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D"/>
+      <property name="Arrow Part Number" value="LM393LVQDRQ1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac"/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15f18362-0e17-446d-bb04-c7910c08c15e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>DTM13-12PA</value>
+      <footprint>BSPD_07:DTM1312PA</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS-22/431684.pdf</datasheet>
+      <fields>
+        <field name="Description">Automotive Connectors 12P SZ 20 DTM RECP</field>
+        <field name="Height">35.18</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">DTM13-12PA</field>
+        <field name="Mouser Part Number">571-DTM13-12PA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DTM13-12PA?qs=cgQJD%2FpJz0wRVbmAAJ6nZw%3D%3D</field>
+      </fields>
+      <libsource lib="BSPD-07" part="DTM13-12PA" description="Automotive Connectors 12P SZ 20 DTM RECP"/>
+      <property name="Description" value="Automotive Connectors 12P SZ 20 DTM RECP"/>
+      <property name="Height" value="35.18"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="DTM13-12PA"/>
+      <property name="Mouser Part Number" value="571-DTM13-12PA"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DTM13-12PA?qs=cgQJD%2FpJz0wRVbmAAJ6nZw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5be4e5db-0298-450a-b8d3-a6e16953116d</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_2_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>856bccbc-b849-49e4-b270-f19682d98b93</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>RSQ025P03HZGTR</value>
+      <footprint>BSPD_07:SOT95P280X100-6N</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rsq025p03hzgtr-e.pdf</datasheet>
+      <fields>
+        <field name="Description">Pch -30V -2.5A Small Signal MOSFET</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">RSQ025P03HZGTR</field>
+        <field name="Mouser Part Number">755-RSQ025P03HZGTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSQ025P03HZGTR?qs=0lSvoLzn4L%2F9YbrdTwpoKg%3D%3D</field>
+      </fields>
+      <libsource lib="BSPD-07" part="RSQ025P03HZGTR" description="Pch -30V -2.5A Small Signal MOSFET"/>
+      <property name="Description" value="Pch -30V -2.5A Small Signal MOSFET"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="RSQ025P03HZGTR"/>
+      <property name="Mouser Part Number" value="755-RSQ025P03HZGTR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSQ025P03HZGTR?qs=0lSvoLzn4L%2F9YbrdTwpoKg%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5696659-0be2-4e22-8039-65953ee49bcb</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>RJU002N06FRAT106</value>
+      <footprint>BSPD_07:SOT65P210X100-3N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/185695.pdf</datasheet>
+      <fields>
+        <field name="Description">ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">RJU002N06FRAT106</field>
+        <field name="Mouser Part Number">755-RJU002N06FRAT106</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=755-RJU002N06FRAT106</field>
+      </fields>
+      <libsource lib="BSPD-07" part="RJU002N06FRAT106" description="ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3"/>
+      <property name="Description" value="ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="RJU002N06FRAT106"/>
+      <property name="Mouser Part Number" value="755-RJU002N06FRAT106"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=755-RJU002N06FRAT106"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0e5de0c-ccaf-416d-b567-a7cfebf3096a</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>RJU002N06FRAT106</value>
+      <footprint>BSPD_07:SOT65P210X100-3N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/185695.pdf</datasheet>
+      <fields>
+        <field name="Description">ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">RJU002N06FRAT106</field>
+        <field name="Mouser Part Number">755-RJU002N06FRAT106</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=755-RJU002N06FRAT106</field>
+      </fields>
+      <libsource lib="BSPD-07" part="RJU002N06FRAT106" description="ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3"/>
+      <property name="Description" value="ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="RJU002N06FRAT106"/>
+      <property name="Mouser Part Number" value="755-RJU002N06FRAT106"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=755-RJU002N06FRAT106"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a603989-0e2e-487c-a960-048a21d45a8e</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>AO3401A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f644aa9-57b1-4e4d-b3b1-d93e2efadc39</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0670dc1-3878-4f40-be54-61b0148016a4</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45e17153-fcf6-49ee-8374-de6b60b4a8e7</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5k-10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac5acf30-9168-440e-8caf-ca59bb9e58d6</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72f6b352-ea90-4694-b987-ee0ce549d05b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5k-10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>331cdbe6-8797-4b59-8fda-b57b6a182851</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>124c3b2a-ac2c-42fa-8404-e33993538232</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>200k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>645b288c-6468-4040-a3d2-3c1ed7c02672</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>200k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9693c87-6a25-4242-8cce-3961aa8b8d7f</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fd94c19-eb79-41bd-aea5-5e568d6912d8</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44887e51-75a2-4f85-bb2d-d79788e79b5b</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1886e26e-3cce-478f-a501-a2175ed67589</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>39k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41db160b-57a8-4446-b15c-5b4421e6c98f</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>39k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab1ce6b2-180c-4003-a93e-fba60972728c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>5</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f467454-440b-4835-9c3b-fbc2452c38ab</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>560k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b844dfab-c885-4983-97f0-a2e19271c471</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a40b7c5-bf23-4b2d-8f86-5540cc3a7815</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d28202c2-7069-4207-8eb1-248ef409b06f</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c45f1a4-02db-40d3-a1f5-80b88c7f50e6</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad02b4ac-0408-495c-9f13-cea68c433174</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>560k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2636eb7-0c1d-4cb8-87ce-549b38fc489b</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>2-4</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97b6a835-3d9b-4659-9565-972e7ba6b6ea</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b79b8d1-ca8d-4b8e-a334-4700ba36aa24</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>152</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eb76030-1d08-4860-b87f-40e10f530e1e</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>145</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d3553a0-1ad9-4950-9363-34411fecf402</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>39k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f893b28-cc0a-4254-8854-a75d7ea332e9</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b7725d9-0f5f-492c-a870-06d9afdf1ab5</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0128100-ca6d-44a4-ba50-42837460a725</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88d73622-8494-48e9-aefa-364e7085331e</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>200</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dc695f4-21ec-4e69-896a-8a48e4bc7ba4</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bbe9407-c358-42d2-b2ca-9969afde8412</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>na</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>333e6334-69af-4847-a088-d220a96c1fe1</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>na</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7484391b-6259-47b0-ad88-1150390b1248</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>20k</value>
+      <footprint>BSPD_07:POT-3296X1223LF</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75a97f9d-2bc2-44fe-8866-ca67331262e0</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>20k</value>
+      <footprint>BSPD_07:POT-3296X1223LF</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4307c7ba-61a9-4cd1-a3fc-76e5bb00ca8d</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TPS</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f02257a1-6745-4306-864e-1aad36207a93</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>BRK</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2ec44cc-2b00-4640-bd77-87ee1e36d40d</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>ERR_FINAL</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f21bf8f7-d291-4a99-b16e-3d7d65ff1929</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>CUR</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a20634a-c64f-4da9-b201-d7e7312d786e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TLP175A / COMUS AB38-Q</value>
+      <footprint>Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/docget.jsp?did=13665&amp;prodName=TLP175A</datasheet>
+      <libsource lib="Relay_SolidState" part="TLP175A" description="MOSFET Photorelay 1-Form-A, Voff 60V, Ion 100mA, SOP6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: BSPD-07.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbd680d4-2916-4e00-9c09-3a431f6c18e0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="LM393LVQDRQ1_1">
+      <description>Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</description>
+      <docs>https://www.ti.com/lit/gpn/lm393lv-q1</docs>
+      <fields>
+        <field name="Reference">IC3</field>
+        <field name="Value">LM393LVQDRQ1</field>
+        <field name="Footprint">BSPD_07:SOIC127P600X175-8N</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/lm393lv-q1</field>
+        <field name="Description">Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393LVQDRQ1</field>
+        <field name="Mouser Part Number">595-LM393LVQDRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D</field>
+        <field name="Arrow Part Number">LM393LVQDRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT1" type="passive"/>
+        <pin num="2" name="IN1-" type="passive"/>
+        <pin num="3" name="IN1+" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="IN2+" type="passive"/>
+        <pin num="6" name="IN2-" type="passive"/>
+        <pin num="7" name="OUT2" type="passive"/>
+        <pin num="8" name="V+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BSPD-07" part="74LVC1G02GW-Q100H">
+      <description>Single 2-input NOR gate@en-us</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/74LVC1G02_Q100.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">74LVC1G02GW-Q100H</field>
+        <field name="Footprint">SOT65P212X110-5N</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/74LVC1G02_Q100.pdf</field>
+        <field name="Description">Single 2-input NOR gate@en-us</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">74LVC1G02GW-Q100H</field>
+        <field name="Mouser Part Number">771-74LVC1G02GWQ100H</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G02GW-Q100H?qs=5XOdhvmYM0OXtjyYuTuWfw%3D%3D</field>
+        <field name="Arrow Part Number">74LVC1G02GW-Q100H</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/74lvc1g02gw-q100h/nexperia</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="Y" type="passive"/>
+        <pin num="5" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BSPD-07" part="DTM13-12PA">
+      <description>Automotive Connectors 12P SZ 20 DTM RECP</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/DKDS-22/431684.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DTM13-12PA</field>
+        <field name="Footprint">DTM1312PA</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/DKDS-22/431684.pdf</field>
+        <field name="Description">Automotive Connectors 12P SZ 20 DTM RECP</field>
+        <field name="Height">35.18</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">DTM13-12PA</field>
+        <field name="Mouser Part Number">571-DTM13-12PA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DTM13-12PA?qs=cgQJD%2FpJz0wRVbmAAJ6nZw%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BSPD-07" part="LDO40LPU50RY">
+      <description>LDO Voltage Regulators 400 mA, 38 V low-dropout regulator</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/LDO40LPU50RY.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LDO40LPU50RY</field>
+        <field name="Footprint">SON95P300X300X90-7N-D</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/LDO40LPU50RY.pdf</field>
+        <field name="Description">LDO Voltage Regulators 400 mA, 38 V low-dropout regulator</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">LDO40LPU50RY</field>
+        <field name="Mouser Part Number">511-LDO40LPU50RY</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDO40LPU50RY?qs=qSfuJ%252Bfl%2Fd76TFu8P3XttQ%3D%3D</field>
+        <field name="Arrow Part Number">LDO40LPU50RY</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ldo40lpu50ry/stmicroelectronics?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND_1" type="passive"/>
+        <pin num="2" name="EN" type="passive"/>
+        <pin num="3" name="VIN" type="passive"/>
+        <pin num="4" name="VOUT" type="passive"/>
+        <pin num="5" name="VSENSE" type="passive"/>
+        <pin num="6" name="ADJ" type="passive"/>
+        <pin num="7" name="GND_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BSPD-07" part="LM393LVQDRQ1">
+      <description>Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</description>
+      <docs>https://www.ti.com/lit/gpn/lm393lv-q1</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LM393LVQDRQ1</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/lm393lv-q1</field>
+        <field name="Description">Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LM393LVQDRQ1</field>
+        <field name="Mouser Part Number">595-LM393LVQDRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D</field>
+        <field name="Arrow Part Number">LM393LVQDRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT1" type="passive"/>
+        <pin num="2" name="IN1-" type="passive"/>
+        <pin num="3" name="IN1+" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="IN2+" type="passive"/>
+        <pin num="6" name="IN2-" type="passive"/>
+        <pin num="7" name="OUT2" type="passive"/>
+        <pin num="8" name="V+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BSPD-07" part="RJU002N06FRAT106">
+      <description>ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/185695.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">RJU002N06FRAT106</field>
+        <field name="Footprint">SOT65P210X100-3N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/185695.pdf</field>
+        <field name="Description">ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">RJU002N06FRAT106</field>
+        <field name="Mouser Part Number">755-RJU002N06FRAT106</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=755-RJU002N06FRAT106</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BSPD-07" part="RSQ025P03HZGTR">
+      <description>Pch -30V -2.5A Small Signal MOSFET</description>
+      <docs>https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rsq025p03hzgtr-e.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">RSQ025P03HZGTR</field>
+        <field name="Footprint">SOT95P280X100-6N</field>
+        <field name="Datasheet">https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rsq025p03hzgtr-e.pdf</field>
+        <field name="Description">Pch -30V -2.5A Small Signal MOSFET</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">RSQ025P03HZGTR</field>
+        <field name="Mouser Part Number">755-RSQ025P03HZGTR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSQ025P03HZGTR?qs=0lSvoLzn4L%2F9YbrdTwpoKg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DRAIN_1" type="passive"/>
+        <pin num="2" name="DRAIN_2" type="passive"/>
+        <pin num="3" name="GATE" type="passive"/>
+        <pin num="4" name="SOURCE" type="passive"/>
+        <pin num="5" name="DRAIN_3" type="passive"/>
+        <pin num="6" name="DRAIN_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint_Small">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Small">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay_SolidState" part="TLP175A">
+      <description>MOSFET Photorelay 1-Form-A, Voff 60V, Ion 100mA, SOP6</description>
+      <docs>https://toshiba.semicon-storage.com/info/docget.jsp?did=13665&amp;prodName=TLP175A</docs>
+      <footprints>
+        <fp>MFSOP6*4.4x3.6mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLP175A</field>
+        <field name="Footprint">Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm</field>
+        <field name="Datasheet">https://toshiba.semicon-storage.com/info/docget.jsp?did=13665&amp;prodName=TLP175A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="AO3401A">
+      <description>-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3401A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BSPD-07">
+      <uri>C:\Users\Karol\Documents\GitHub\BSPD-07\PCB\BSPD-07/Additional/BSPD-07.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Relay_SolidState">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Relay_SolidState.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="V+" pintype="passive"/>
+      <node ref="IC2" pin="8" pinfunction="V+" pintype="passive"/>
+      <node ref="IC3" pin="8" pinfunction="V+" pintype="passive"/>
+      <node ref="IC4" pin="4" pinfunction="VOUT" pintype="passive"/>
+      <node ref="IC4" pin="5" pinfunction="VSENSE" pintype="passive"/>
+      <node ref="IC5" pin="5" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC6" pin="8" pinfunction="V+" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="SOURCE" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="3" name="/10ms VAL">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="IC3" pin="6" pinfunction="IN2-" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/10s REF">
+      <node ref="IC3" pin="5" pinfunction="IN2+" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/500MS_REF">
+      <node ref="IC3" pin="3" pinfunction="IN1+" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="BRAKE_COMP_OUT">
+      <node ref="IC2" pin="1" pinfunction="OUT1" pintype="passive"/>
+      <node ref="IC5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="BRAKE_IN">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="IN1-" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="IN2+" pintype="passive"/>
+      <node ref="IC6" pin="2" pinfunction="IN1-" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="BRAKE_IN_NF">
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="BRAKE_TRIG">
+      <node ref="IC2" pin="3" pinfunction="IN1+" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="10" name="ERR_CURRENT">
+      <node ref="IC5" pin="4" pinfunction="Y" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="ERR_FINAL">
+      <node ref="IC1" pin="7" pinfunction="OUT2" pintype="passive"/>
+      <node ref="IC2" pin="7" pinfunction="OUT2" pintype="passive"/>
+      <node ref="IC3" pin="7" pinfunction="OUT2" pintype="passive"/>
+      <node ref="IC6" pin="1" pinfunction="OUT1" pintype="passive"/>
+      <node ref="IC6" pin="7" pinfunction="OUT2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="IC4" pin="1" pinfunction="GND_1" pintype="passive"/>
+      <node ref="IC4" pin="7" pinfunction="GND_2" pintype="passive"/>
+      <node ref="IC5" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="IC6" pin="4" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="INFO_LED">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="3" pintype="passive"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="IN1-" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="EN" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="VIN" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="IN2-" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(IC2-Pad6)">
+      <node ref="IC2" pin="6" pinfunction="IN2-" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(IC3-Pad1)">
+      <node ref="IC3" pin="1" pinfunction="OUT1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(IC6-Pad3)">
+      <node ref="IC6" pin="3" pinfunction="IN1+" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(IC6-Pad5)">
+      <node ref="IC6" pin="5" pinfunction="IN2+" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="DRAIN_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="DRAIN_2" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="DRAIN_3" pintype="passive"/>
+      <node ref="Q1" pin="6" pinfunction="DRAIN_4" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="GATE" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="SAFETY_IN">
+      <node ref="J1" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="6" pintype="passive"/>
+    </net>
+    <net code="30" name="SAFETY_OUT">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U2" pin="4" pintype="passive"/>
+    </net>
+    <net code="31" name="TPS_COMP_OUT">
+      <node ref="IC1" pin="1" pinfunction="OUT1" pintype="passive"/>
+      <node ref="IC5" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="32" name="TPS_IN">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="IN1-" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="IN2+" pintype="passive"/>
+      <node ref="IC6" pin="6" pinfunction="IN2-" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="TPS_IN_NF">
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="TPS_TRIG">
+      <node ref="IC1" pin="3" pinfunction="IN1+" pintype="passive"/>
+      <node ref="J1" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="35" name="unconnected-(IC4-Pad6)">
+      <node ref="IC4" pin="6" pinfunction="ADJ" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J1-PadMH1)">
+      <node ref="J1" pin="MH1" pinfunction="MH1" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J1-PadMH2)">
+      <node ref="J1" pin="MH2" pinfunction="MH2" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(RV1-Pad1)">
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(RV2-Pad1)">
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

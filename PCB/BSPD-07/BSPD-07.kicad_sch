@@ -1739,6 +1739,7 @@
     )
   )
 
+
   (junction (at 256.54 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 0e0bff5c-4c46-4113-b0ef-31d9d3d24ba9)
   )
@@ -2880,6 +2881,10 @@
   (text "SAFETY SWITCH" (at 128.27 104.775 0)
     (effects (font (size 1.8 1.8)) (justify left bottom))
     (uuid 9bafbc14-aafa-4e75-9ba9-8786aff858a2)
+  )
+  (text "NOW: 750R0" (at 163.957 217.297 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a71947ba-2751-494e-933b-ea0fcb2a714a)
   )
   (text "LDO" (at 212.09 104.14 0)
     (effects (font (size 1.8 1.8) italic) (justify left bottom))

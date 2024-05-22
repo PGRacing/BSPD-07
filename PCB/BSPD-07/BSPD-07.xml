@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Karol\Documents\GitHub\BSPD-07\PCB\BSPD-07\BSPD-07.kicad_sch</source>
-    <date>27.02.2024 22:26:12</date>
+    <date>05.04.2024 01:30:17</date>
     <tool>Eeschema (6.0.8)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -588,7 +588,7 @@
       <tstamps>ab1ce6b2-180c-4003-a93e-fba60972728c</tstamps>
     </comp>
     <comp ref="R14">
-      <value>5</value>
+      <value>5R2</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -606,7 +606,7 @@
       <tstamps>b844dfab-c885-4983-97f0-a2e19271c471</tstamps>
     </comp>
     <comp ref="R16">
-      <value>100</value>
+      <value>100R</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -651,7 +651,7 @@
       <tstamps>c2636eb7-0c1d-4cb8-87ce-549b38fc489b</tstamps>
     </comp>
     <comp ref="R21">
-      <value>2-4</value>
+      <value>3R9</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -705,7 +705,7 @@
       <tstamps>6b7725d9-0f5f-492c-a870-06d9afdf1ab5</tstamps>
     </comp>
     <comp ref="R27">
-      <value>200</value>
+      <value>200R</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>

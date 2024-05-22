@@ -1,33 +1,41 @@
-Ref;Qnty;Value;Cmp name;Footprint;Description;Vendor
-C1, C2, C4, C9, ;4;0.1uF;C_Small;Capacitor_SMD:C_0402_1005Metric;Unpolarized capacitor, small symbol;
-C3, ;1;10u;C_Small;Capacitor_SMD:C_0805_2012Metric;Unpolarized capacitor, small symbol;
-C5, ;1;10uF;C_Small;Capacitor_SMD:C_0805_2012Metric;Unpolarized capacitor, small symbol;
-C6, ;1;1uF;C_Small;Capacitor_SMD:C_0805_2012Metric;Unpolarized capacitor, small symbol;
-C7, ;1;4.7uF;C_Small;Capacitor_SMD:C_0805_2012Metric;Unpolarized capacitor, small symbol;
-C8, ;1;0.1u;C_Small;Capacitor_SMD:C_0402_1005Metric;Unpolarized capacitor, small symbol;
-C10, C11, ;2;na - 1uF;C_Small;Capacitor_SMD:C_0402_1005Metric;Unpolarized capacitor, small symbol;
-D1, D2, ;2;7V;D_TVS;Diode_SMD:D_0402_1005Metric;Bidirectional transient-voltage-suppression diode;
-D3, D4, ;2;LED;LED;Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder;Light emitting diode;
-IC1, IC2, IC3, IC6, ;4;LM393LVQDRQ1;LM393LVQDRQ1;BSPD_07:SOIC127P600X175-8N;Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125;
-IC4, ;1;LDO40LPU50RY;LDO40LPU50RY;BSPD_07:SON95P300X300X90-7N-D;LDO Voltage Regulators 400 mA, 38 V low-dropout regulator;
-IC5, ;1;74LVC1G02GW-Q100H;74LVC1G02GW-Q100H;BSPD_07:SOT65P212X110-5N;Single 2-input NOR gate@en-us;
-Q1, ;1;RSQ025P03HZGTR;RSQ025P03HZGTR;BSPD_07:SOT95P280X100-6N;Pch -30V -2.5A Small Signal MOSFET;
-Q2, Q3, ;2;RJU002N06FRAT106;RJU002N06FRAT106;BSPD_07:SOT65P210X100-3N;!!! U MARCINA!!!! ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3;
-Q4, ;1;AO3401A;AO3401A;Package_TO_SOT_SMD:SOT-23;-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23;
-R1, R2, R11, ;3;100k;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R3, R5, ;2;6,33;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R4, R6, R9, R10, R17, R18, R19, R26, R30, ;9;10k;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R7, R8, ;2;200k;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R12, R13, R25, ;3;39k;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R14, ;1;5;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R15, R20, ;2;560k;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R16, R28, ;2;100;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R21, ;1;3R9/4R0;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R22, ;1;1k;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R23, ;1;152;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R24, ;1;145;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R27, R29, ;2;200;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-R31, R32, ;2;na - 1.2k;R_Small;Resistor_SMD:R_0402_1005Metric;Resistor, small symbol;
-RV1, RV2, ;2;20k;R_Potentiometer_Small;BSPD_07:POT-3296X1223LF;Potentiometer;
-U2, ;1;TLP175A / COMUS AB38-Q;TLP175A;Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm;MOSFET Photorelay 1-Form-A, Voff 60V, Ion 100mA, SOP6;
-;;;;;;
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Arrow Part Number","Arrow Price/Stock","Description","Height","Manufacturer_Name","Manufacturer_Part_Number","Mouser Part Number","Mouser Price/Stock"
+"1","4","C1, C2, C4, C9","0.1uF","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","",""
+"2","1","C3","10u","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","~","","","","","","","",""
+"3","1","C5","10uF","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","~","","","","","","","",""
+"4","1","C6","1uF","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","~","","","","","","","",""
+"5","1","C7","4.7uF","Device:C_Small","Capacitor_SMD:C_0805_2012Metric","~","","","","","","","",""
+"6","1","C8","0.1u","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","",""
+"7","2","C10, C11","na","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","",""
+"8","2","D1, D2","7V","Device:D_TVS","Diode_SMD:D_0402_1005Metric","~","","","","","","","",""
+"9","2","D3, D4","LED","Device:LED","Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder","~","","","","","","","",""
+"10","3","IC1, IC2, IC6","LM393LVQDRQ1","BSPD-07:LM393LVQDRQ1","BSPD_07:SOIC127P600X175-8N","https://www.ti.com/lit/gpn/lm393lv-q1","LM393LVQDRQ1","https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac","Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125","1.75","Texas Instruments","LM393LVQDRQ1","595-LM393LVQDRQ1","https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D"
+"11","1","IC3","LM393LVQDRQ1",":LM393LVQDRQ1_1","BSPD_07:SOIC127P600X175-8N","https://www.ti.com/lit/gpn/lm393lv-q1","LM393LVQDRQ1","https://www.arrow.com/en/products/lm393lvqdrq1/texas-instruments?region=nac","Analog Comparators Automotive low-voltage commodity comparator 8-SOIC -40 to 125","1.75","Texas Instruments","LM393LVQDRQ1","595-LM393LVQDRQ1","https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM393LVQDRQ1?qs=IS%252B4QmGtzzqk8QFsvXuXMw%3D%3D"
+"12","1","IC4","LDO40LPU50RY","BSPD-07:LDO40LPU50RY","BSPD_07:SON95P300X300X90-7N-D","https://componentsearchengine.com/Datasheets/1/LDO40LPU50RY.pdf","LDO40LPU50RY","https://www.arrow.com/en/products/ldo40lpu50ry/stmicroelectronics?region=nac","LDO Voltage Regulators 400 mA, 38 V low-dropout regulator","0.9","STMicroelectronics","LDO40LPU50RY","511-LDO40LPU50RY","https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDO40LPU50RY?qs=qSfuJ%252Bfl%2Fd76TFu8P3XttQ%3D%3D"
+"13","1","IC5","74LVC1G02GW-Q100H","BSPD-07:74LVC1G02GW-Q100H","BSPD_07:SOT65P212X110-5N","https://assets.nexperia.com/documents/data-sheet/74LVC1G02_Q100.pdf","74LVC1G02GW-Q100H","https://www.arrow.com/en/products/74lvc1g02gw-q100h/nexperia","Single 2-input NOR gate@en-us","1.1","Nexperia","74LVC1G02GW-Q100H","771-74LVC1G02GWQ100H","https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC1G02GW-Q100H?qs=5XOdhvmYM0OXtjyYuTuWfw%3D%3D"
+"14","1","J1","DTM13-12PA","BSPD-07:DTM13-12PA","BSPD_07:DTM1312PA","https://datasheet.datasheetarchive.com/originals/distributors/DKDS-22/431684.pdf","","","Automotive Connectors 12P SZ 20 DTM RECP","35.18","TE Connectivity","DTM13-12PA","571-DTM13-12PA","https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DTM13-12PA?qs=cgQJD%2FpJz0wRVbmAAJ6nZw%3D%3D"
+"15","1","JP1","Jumper_2_Open","Jumper:Jumper_2_Open","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","","","","","","","",""
+"16","1","Q1","RSQ025P03HZGTR","BSPD-07:RSQ025P03HZGTR","BSPD_07:SOT95P280X100-6N","https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rsq025p03hzgtr-e.pdf","","","Pch -30V -2.5A Small Signal MOSFET","1","ROHM Semiconductor","RSQ025P03HZGTR","755-RSQ025P03HZGTR","https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSQ025P03HZGTR?qs=0lSvoLzn4L%2F9YbrdTwpoKg%3D%3D"
+"17","2","Q2, Q3","RJU002N06FRAT106","BSPD-07:RJU002N06FRAT106","BSPD_07:SOT65P210X100-3N","https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/185695.pdf","","","ROHM - RJU002N06FRAT106 - MOSFET, AEC-Q101, N-CH, 60V, 0.2A, UMT3","1","ROHM Semiconductor","RJU002N06FRAT106","755-RJU002N06FRAT106","https://www.mouser.com/Search/Refine.aspx?Keyword=755-RJU002N06FRAT106"
+"18","1","Q4","AO3401A","Transistor_FET:AO3401A","Package_TO_SOT_SMD:SOT-23","http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf","","","","","","","",""
+"19","3","R1, R2, R11","100k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"20","2","R3, R5","5k-10k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"21","9","R4, R6, R9, R10, R17, R18, R19, R26, R30","10k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"22","2","R7, R8","200k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"23","3","R12, R13, R25","39k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"24","1","R14","5R2","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"25","2","R15, R20","560k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"26","1","R16","100R","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"27","1","R21","3R9","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"28","1","R22","1k","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"29","1","R23","152","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"30","1","R24","145","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"31","1","R27","200R","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"32","1","R28","100","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"33","1","R29","200","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"34","2","R31, R32","na","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","",""
+"35","2","RV1, RV2","20k","Device:R_Potentiometer_Small","BSPD_07:POT-3296X1223LF","~","","","","","","","",""
+"36","1","TP1","TPS","Connector:TestPoint_Small","TestPoint:TestPoint_Pad_D1.0mm","~","","","","","","","",""
+"37","1","TP2","BRK","Connector:TestPoint_Small","TestPoint:TestPoint_Pad_D1.0mm","~","","","","","","","",""
+"38","1","TP3","ERR_FINAL","Connector:TestPoint_Small","TestPoint:TestPoint_Pad_D1.0mm","~","","","","","","","",""
+"39","1","TP4","CUR","Connector:TestPoint_Small","TestPoint:TestPoint_Pad_D1.0mm","~","","","","","","","",""
+"40","1","U2","TLP175A / COMUS AB38-Q","Relay_SolidState:TLP175A","Package_SO:MFSOP6-4_4.4x3.6mm_P1.27mm","https://toshiba.semicon-storage.com/info/docget.jsp?did=13665&prodName=TLP175A","","","","","","","",""
